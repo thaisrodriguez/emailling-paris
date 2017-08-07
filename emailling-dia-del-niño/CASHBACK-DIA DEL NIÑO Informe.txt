@@ -1,0 +1,108 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: CASHBACK-DIA DEL NINO.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: p’xeles
+Dimensiones de la mesa de trabajo: 700 px x 1080.8762 px
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+PANTONE 109 C (Lab)
+PANTONE 2935 C (Lab)
+PANTONE 426 C (Lab)
+PANTONE 7535 C (Lab)
+PANTONE 7543 C (Lab)
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+UniformExtraCondensed-Light (TrueType)
+Uniform ExtraCondensed 2 (TrueType)
+Uniform ExtraCondensed 3 (TrueType)
+Geogrotesque Regular (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+
+/Usuarios/mullenlowe126/Descargas/TRAMA (1).jpg
+Tipo: RGB
+Bits por p’xel: 24
+Canales: 3
+Tama–o: 27614K, 3588 por 2627 p’xeles
+Dimensiones: 3588 por 2627 puntos 
+Resoluci—n: 72 por 72 p’xeles por pulgada
+
+
+/Usuarios/mullenlowe126/Escritorio/RATAS/ninoS RATA_Carpeta/Links/risas.psd
+Tipo: CMYK transparente
+Bits por p’xel: 40
+Canales: 5
+Tama–o: 10981K, 1109 por 2028 p’xeles
+Dimensiones: 169.046 por 309.129 puntos 
+Resoluci—n: 472.346 por 472.346 p’xeles por pulgada
+
+
+/Usuarios/mullenlowe126/Escritorio/RATAS/ninoS RATA_Carpeta/Links/rufo_sombra.psd
+Tipo: CMYK transparente
+Bits por p’xel: 40
+Canales: 5
+Tama–o: 14630K, 1224 por 2448 p’xeles
+Dimensiones: 242.041 por 392.737 puntos 
+Resoluci—n: 364.103 por 448.789 p’xeles por pulgada
+
+
+/Usuarios/mullenlowe126/Escritorio/RATAS/ninoS RATA_Carpeta/Links/risas_sombra.psd
+Tipo: CMYK transparente
+Bits por p’xel: 40
+Canales: 5
+Tama–o: 10981K, 1109 por 2028 p’xeles
+Dimensiones: 169.046 por 309.129 puntos 
+Resoluci—n: 472.346 por 472.346 p’xeles por pulgada
+
+
+/Usuarios/mullenlowe126/Escritorio/RATAS/ninoS RATA_Carpeta/Links/rufo.psd
+Tipo: CMYK transparente
+Bits por p’xel: 40
+Canales: 5
+Tama–o: 14630K, 1224 por 2448 p’xeles
+Dimensiones: 242.041 por 392.737 puntos 
+Resoluci—n: 364.103 por 448.789 p’xeles por pulgada
+
+
+/Usuarios/mullenlowe126/Escritorio/RATAS/ninoS RATA_Carpeta/Links/rico_sombra.psd
+Tipo: CMYK transparente
+Bits por p’xel: 40
+Canales: 5
+Tama–o: 8720K, 940 por 1900 p’xeles
+Dimensiones: 141.975 por 286.971 puntos 
+Resoluci—n: 476.702 por 476.702 p’xeles por pulgada
+
+
+/Usuarios/mullenlowe126/Escritorio/RATAS/ninoS RATA_Carpeta/Links/rico.psd
+Tipo: CMYK transparente
+Bits por p’xel: 40
+Canales: 5
+Tama–o: 8720K, 940 por 1900 p’xeles
+Dimensiones: 141.975 por 286.971 puntos 
+Resoluci—n: 476.702 por 476.702 p’xeles por pulgada
